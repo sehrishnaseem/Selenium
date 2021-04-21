@@ -10,6 +10,7 @@ public class ClassA {
         Samsung obj = new Samsung();
         obj.call();
         obj.call("YES");
+        /*comment*/
 
     }
 }
