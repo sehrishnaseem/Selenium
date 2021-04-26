@@ -2,7 +2,7 @@ public class Samsung extends Smart_Phone {
     @Override
     public void call(){
         super.call();
-        System.out.println("I am calling child function");
+        System.out.println("I am calling child function.");
     }
 
     public void call (String abc){
