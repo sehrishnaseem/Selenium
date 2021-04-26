@@ -6,7 +6,7 @@ public class Samsung extends Smart_Phone {
     }
 
     public void call (String abc){
-        System.out.println("Can a call is recorded?" + abc);
+        System.out.println("Can a call is recorded on samsung phones?" + abc);
 
     }
 }
